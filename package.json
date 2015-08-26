@@ -1,0 +1,19 @@
+{
+  "author": "@hypothete",
+  "name": "mrArp",
+  "description": "Arp table watcher",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "nest-api": "0.0.5",
+    "pcap": "^2.0.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
